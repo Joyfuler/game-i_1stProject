@@ -5,7 +5,7 @@ Game-i
 - 프로젝트 명 : Game-i (게임 리뷰와 평점, 커뮤니티 제공) <br>
 - 인 원 : 1명 <br>
 - 기간 : 2023.10.17 ~ 2023.10.30 (2주간) <br>
-- DMBS : Oracle 11g Express Edition <br>
+- DBMS : Oracle 11g Express Edition <br>
 - 언어 : Java SE * Platform, HTML5, CSS, CSS3, JavaScript <br>
 - 디자인 패턴 : MVC <br>
 - 오픈 라이브러리: jquery v3.7.1, jQueryUI <br>
